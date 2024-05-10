@@ -2,7 +2,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3dq52i7or7d8gagkzlq9muice&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,figma,git,ae,aws,gcp,azure,react,vue,flutter&perline=7)](https://portfolio-2ip.pages.dev/)
+
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,react,remix,vite,vue,figma,xd,react,vue,flutter&perline=9)](https://portfolio-2ip.pages.dev/)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohnish2004&theme=bear)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohnish2004&theme=bear)&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohnish2004&theme=bear&utcOffset=8)
