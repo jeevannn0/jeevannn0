@@ -10,7 +10,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,mongodb,cloudflare,aws,azure&per,git,solidity,line=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,mongodb,cloudflare,aws,azure&per,git,solidityline=12)](https://portfolio-2ip.pages.dev/)
 
 <br/>
 
