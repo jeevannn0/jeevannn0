@@ -6,11 +6,11 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,react,remix,vite,vue,figma,xd,react,vue,flutter&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,react,remix,vite,figma,xd,react,threejs&perline=12)](https://portfolio-2ip.pages.dev/)
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,mongodb,cloudflare,aws,solidity,azure&per&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,mongodb,cloudflare,aws,solidity&per&perline=12)](https://portfolio-2ip.pages.dev/)
 
 <br/>
 
