@@ -16,7 +16,7 @@
 
 
 ## 
-[![](https://spotify-github-profile.vercel.app/api/view?uid=3dq52i7or7d8gagkzlq9muice&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)](https://open.spotify.com/)
+[](https://spotify-github-profile.vercel.app/api/view?uid=3dq52i7or7d8gagkzlq9muice&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=a64eb1&bar_color_cover=false)
 
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohnish2004&theme=bear)
