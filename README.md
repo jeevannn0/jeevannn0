@@ -6,7 +6,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,react,remix,vite,vue,figma,xd,react,vue,flutter&perline=9)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,react,remix,vite,vue,figma,xd,react,vue,flutter&perline=12)](https://portfolio-2ip.pages.dev/)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohnish2004&theme=bear)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohnish2004&theme=bear)&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohnish2004&theme=bear&utcOffset=8)
