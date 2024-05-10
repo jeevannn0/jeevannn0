@@ -10,11 +10,11 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,mongodb,cloudflare,aws,gcp,azure&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,mongodb,cloudflare,aws,azure&per,git,solidity,line=12)](https://portfolio-2ip.pages.dev/)
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,git,ae,vercel&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,vercel&perline=12)](https://portfolio-2ip.pages.dev/)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohnish2004&theme=bear)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohnish2004&theme=bear)&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohnish2004&theme=bear&utcOffset=8)
