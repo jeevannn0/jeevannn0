@@ -1,12 +1,5 @@
 <img width="1834" alt="Banner" src="https://camo.githubusercontent.com/a352e354aa9f9eb8fa2a18b281e5fc8cb52eab244e7418a544357d75a3a53701/68747470733a2f2f692e706f7374696d672e63632f67323830776b44392f47726f75702d322d322e706e67"> 
-<p align="right">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
-  </a>
- <br>
- <img src="://profile-counter.glitch.me/{jeevannn0}/count.svg" align="right"/>
- <br>
-</p>
+
 
 
 ## Skills
