@@ -10,7 +10,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,mongodb,cloudflare,solidity&per&perline=12)](https://portfolio-2ip.pages.dev/)<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="50" height="50" />
+[![My Skills]<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx icon" width="50" height="50" />(https://skillicons.dev/icons?i=supabase,mongodb,cloudflare,solidity&per&perline=12)](https://portfolio-2ip.pages.dev/)<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="50" height="50" />
   
 
 <br/>
