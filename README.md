@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,react,remix,vite,figma,xd,threejs&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />,remix,vite,figma,xd,threejs&perline=12)](https://portfolio-2ip.pages.dev/)
 
 <br/>
 
