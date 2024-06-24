@@ -4,7 +4,19 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,remix,vite,figma,xd,threejs&perline=12)](https://portfolio-2ip.pages.dev/) <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="50" height="50" />
+<div style="display: flex; align-items: center;">
+  <a href="https://portfolio-2ip.pages.dev/">
+    <img src="https://skillicons.dev/icons?i=js,jquery,nextjs,remix,vite,figma,xd,threejs&perline=12" alt="My Skills" />
+  </a>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="50" height="50" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx icon" width="65" height="65" />
+  </div>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
+  </div>
+</div>
+
 
 
 <br/>
