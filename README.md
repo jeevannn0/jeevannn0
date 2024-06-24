@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,threejs&perline=12)](https://portfolio-2ip.pages.dev/) <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="50" height="50" />[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,remix,vite,figma,xd,threejs&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,remix&perline=12)](https://portfolio-2ip.pages.dev/) <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="50" height="50" />[![My Skills](https://skillicons.dev/icons?i=vite,figma,xd,threejs&perline=12)](https://portfolio-2ip.pages.dev/)
 
 
 
