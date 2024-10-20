@@ -1,4 +1,4 @@
-<img width="1834" alt="Banner" src="https://github.com/jeevannn0/jeevannn0/blob/main/pixel-jeff-blade-runner.gif"> 
+<img width="1834" alt="Banner" src="https://github.com/jeevannn0/jeevannn0/blob/main/tt.jpg"> 
 
 
 
